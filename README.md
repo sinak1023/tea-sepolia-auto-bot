@@ -29,7 +29,7 @@ A Node.js script for automating interactions with the Tea Sepolia Testnet, inclu
 Install Dependencies:
 
 ```
-npm install
+npm install ethers chalk cli-spinners https-proxy-agent dotenv
 ```
 This will install the required packages: ethers, chalk, cli-spinners, https-proxy-agent, and dotenv.
 
