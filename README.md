@@ -23,7 +23,7 @@ A Node.js script for automating interactions with the Tea Sepolia Testnet, inclu
 
 1. **Clone the Repository**:
 ```
-   git clone https://github.com/your-username/tea-sepolia-auto-bot.git
+   git clone https://github.com/sinak1023/tea-sepolia-auto-bot.git
    cd tea-sepolia-auto-bot
 ```
 Install Dependencies:
